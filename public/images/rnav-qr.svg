@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#FFFFFF" />
+  <rect x="12" y="12" width="232" height="232" fill="none" stroke="#0B0B0B" stroke-width="8" />
+  <rect x="32" y="32" width="64" height="64" fill="#0B0B0B" />
+  <rect x="160" y="32" width="64" height="64" fill="#0B0B0B" />
+  <rect x="32" y="160" width="64" height="64" fill="#0B0B0B" />
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="20"
+    font-weight="700"
+    fill="#0B0B0B"
+  >
+    RNAV QR
+  </text>
+</svg>
